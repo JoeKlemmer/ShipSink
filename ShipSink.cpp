@@ -1,7 +1,7 @@
 /* CS106 D6
 * Author: Joe Klemmer
 * Instructor: Panos Mastrogiannis
-* Week 9 - Final Project
+* Week 9 - Final Project (Got an A+ on it)
 */
 
 // Include required libraries
