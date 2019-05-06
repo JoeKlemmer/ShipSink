@@ -332,30 +332,30 @@ void placeShip(void)
 			for (i=0; i<4; i++)
 			{
 				shipLocation[limiter+i][gridSize] = "@";
-				//playingGrid[limiter+i][gridSize] = "@";           //<----- These are for testing
-			}													    // Uncomment to see where
-			break;												    // the ship is
+				//playingGrid[limiter+i][gridSize] = "@";           //<--- These are for testing - Uncomment to see where the ship is
+			}
+			break;
 		case SOUTH:
 			for (i=0; i<4; i++)
 			{
 				shipLocation[(limiter + 3) - i][gridSize] = "@";
-				//playingGrid[(limiter + 3) - i][gridSize] = "@";   //<--- These are for testing
-			}														// Uncomment to see where
-			break;													// the ship is
+				//playingGrid[(limiter + 3) - i][gridSize] = "@";   //<--- These are for testing - Uncomment to see where the ship is
+			}
+			break;
 		case EAST:
 			for (i=0; i<4; i++)
 			{
 				shipLocation[gridSize][(limiter + 3) - i] = "@";
-				//playingGrid[gridSize][(limiter + 3) - i] = "@";	//<--_ These are for testing
-			}														// Uncomment to see where
-			break;													// the ship is
+				//playingGrid[gridSize][(limiter + 3) - i] = "@";	//<--- These are for testing - Uncomment to see where the ship is
+			}
+			break;
 		case WEST:
 			for (i=0; i<4; i++)
 			{
 				shipLocation[gridSize][limiter + i] = "@";
-				//playingGrid[gridSize][limiter + i] = "@";         //<----- These are for testing
-			}													    // Uncomment to see where
-			break;												    // the ship is
+				//playingGrid[gridSize][limiter + i] = "@";         //<--- These are for testing - Uncomment to see where the ship is
+			}
+			break;
 		default:
 			// If we get here something really bad has happened
 			cout << "Something blew up!" << endl;
