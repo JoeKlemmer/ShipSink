@@ -1,4 +1,6 @@
-![GitHub](https://img.shields.io/github/license/JoeKlemmer/sinktheship)
+![GitHub](https://img.shields.io/github/license/JoeKlemmer/ShipSink)
+[![Updated Badge](https://badges.pufler.dev/updated/JoeKlemmer/ShipSink)](https://badges.pufler.dev)
+[![Created Badge](https://badges.pufler.dev/created/JoeKlemmer/ShipSink)](https://badges.pufler.dev)
 
 # ShipSink #
 
