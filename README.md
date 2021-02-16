@@ -1,4 +1,6 @@
-# ShipSink
+![GitHub](https://img.shields.io/github/license/JoeKlemmer/sinktheship)
+
+# ShipSink #
 'ShipSink' is similar to Battle Ship.
 
 The object of the game is to sink the ship.  There will be one ship on
